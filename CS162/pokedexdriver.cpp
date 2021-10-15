@@ -2,7 +2,6 @@
 #include "pokemon.h"
 #include "pokedexfunctions.h"
 #include <vector>
-#include <bits/stdc++.h>
 
 //##### Initialize Functions #####//
 vector <string> getFile(char*);
